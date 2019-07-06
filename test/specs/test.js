@@ -7,4 +7,4 @@ describe('Google Home Page', () => {
         const title = browser.getTitle();
         assert.strictEqual(title, 'Google');
     });
-});
+}); 
