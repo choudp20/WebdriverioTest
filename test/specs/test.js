@@ -1,6 +1,6 @@
 const assert = require('assert');
 
-describe('Google Home Page', () => {
+describe('Google Home Page Test', () => {
     it.only('should have correct title', () => {
         browser.url('');
         browser.pause(5000);
